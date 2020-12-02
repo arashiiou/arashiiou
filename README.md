@@ -1,6 +1,11 @@
-### Hi there 👋, I am Kevin 
+### 
+<h1 align="center"> Hi there 👋, I am Kevin  </h1>
+<h3 align="center">A developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arashiiou" alt="arashiiou" /> </p>
+
+
+🌱 I’m currently learning **Spring Framwork Family / Design Pattern / Micro Service**
 
 <!--
 **arashiiou/arashiiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
